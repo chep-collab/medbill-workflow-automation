@@ -1,0 +1,12 @@
+[
+  {"claimId":"CLM-1001","patient":"Alice Johnson","amount":500,"payer":"BlueCare"},
+  {"claimId":"CLM-1002","patient":"Bob Smith","amount":1200,"payer":"HealthPlus"},
+  {"claimId":"CLM-1003","patient":"Carol Lee","amount":750,"payer":"MediSure"},
+  {"claimId":"CLM-1004","patient":"David Kim","amount":2000,"payer":"InsureCo"},
+  {"claimId":"CLM-1005","patient":"Eva Brown","amount":950,"payer":"HealthFirst"},
+  {"claimId":"CLM-1006","patient":"Frank Green","amount":1100,"payer":"BlueCare"},
+  {"claimId":"CLM-1007","patient":"Grace White","amount":450,"payer":"MediSure"},
+  {"claimId":"CLM-1008","patient":"Henry Adams","amount":1300,"payer":"HealthPlus"},
+  {"claimId":"CLM-1009","patient":"Isla Moore","amount":800,"payer":"InsureCo"},
+  {"claimId":"CLM-1010","patient":"Jack Black","amount":1500,"payer":"HealthFirst"}
+]
