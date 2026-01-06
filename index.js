@@ -87,3 +87,12 @@ app.post("/webhook/claim", async (req, res) => {
 app.listen(3000, () => {
   console.log("Medbill workflow automation server running on port 3000");
 });
+app.get('/', (req, res) => {
+  res.json({
+    service: "Medbill Workflow Automation API",
+    status: "Running",
+    endpoints: {
+      webhook: "POST /webhook/claim"
+    }
+  });
+});
